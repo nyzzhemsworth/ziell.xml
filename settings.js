@@ -3,25 +3,23 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "media/profile.jpg", // Path ke favicon
-  title: "Vynaa Valerie | Profile", // Judul halaman
-  metaTitle: "Vynaa || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website Vynaa Valerie, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
+  title: "ziell.xml | Profile", // Judul halaman
+  metaTitle: "ziell.xml || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website ziell.xml, anak mami yg imoet", // Deskripsi meta untuk SEO
+  metaKeywords: "Ziell, ziell.xml, profile ziell, siapa ziell?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/profile.jpg", // Path ke gambar profil
-  name: "Vynaa Valerie", // Nama profil
-  occupation: "Creator and Dev", // Pekerjaan atau jabatan
-  location: "Pekanbaru, Riau, Indonesia", // Lokasi
+  name: "ziell.xml", // Nama profil
+  occupation: "Anak mamih", // Pekerjaan atau jabatan
+  location: "Karawang, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
-    { title: "LinkedIn", url: "https://www.linkedin.com/in/vynaaval", icon: "fa-linkedin" }, // Tautan LinkedIn
-    { title: "Twitter", url: "https://twitter.com/vynaaval", icon: "fa-twitter" }, // Tautan Twitter
-    { title: "Instagram", url: "https://www.instagram.com/vynaa_valerie", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/VLShop2", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:vynaavalerie@example.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "YouTube", url: "https://youtube.com/@VynaaChan", icon: "fa-youtube" } // Tautan YouTube
+    { title: "TikTok", url: "https://tiktok.com/@ziell.xml", icon: "fa-github" }, // Tautan GitHub
+    { title: "Instagram", url: "https://www.instagram.com/sr.nyzz", icon: "fa-instagram" }, // Tautan Instagram
+    { title: "Telegram", url: "https://t.me/nyzziell", icon: "fa-telegram" }, // Tautan Telegram
+    { title: "Email", url: "mailto:nyzziell@gmail.com", icon: "fa-envelope" }, // Tautan Email
+    { title: "WhatsApp", url: "https://wa.me/12268950399?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "Group WhatsApp", url: "https://chat.whatsapp.com/F729CJyYPA13hamtqQxn96", icon: "fa-whatsapp" } // Tautan YouTube
   ]
 };
 
