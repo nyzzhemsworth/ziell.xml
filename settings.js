@@ -14,7 +14,7 @@ const profileSettings = {
   location: "Karawang, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "TikTok", url: "https://tiktok.com/@ziell.xml", icon: "fa-github" }, // Tautan GitHub
+    { title: "TikTok", url: "https://tiktok.com/@ziell.xml", icon: "fa-tiktok" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/sr.nyzz", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://t.me/nyzziell", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:nyzziell@gmail.com", icon: "fa-envelope" }, // Tautan Email
