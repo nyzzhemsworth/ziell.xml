@@ -10,14 +10,13 @@ const profileSettings = {
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/profile.jpg", // Path ke gambar profil
   name: "ziell.xml", // Nama profil
-  occupation: "Anak mamih", // Pekerjaan atau jabatan
+  occupation: "welcome", // Pekerjaan atau jabatan
   location: "Karawang, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
     { title: "TikTok", url: "https://tiktok.com/@ziell.xml", icon: "fa-tiktok" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/sr.nyzz", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/nyzziell", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:nyzziell@gmail.com", icon: "fa-envelope" }, // Tautan Email
+    { title: "My Channel", url: "https://whatsapp.com/channel/0029Vaj7u9O7Noa0OG2Qp53t", icon: "fa-whatsapp" }, // Tautan Email
     { title: "WhatsApp", url: "https://wa.me/12268950399?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "Group WhatsApp", url: "https://chat.whatsapp.com/F729CJyYPA13hamtqQxn96", icon: "fa-whatsapp" } // Tautan YouTube
   ]
